@@ -1,1 +1,0 @@
-# fp-05-firepower-connector-sentinel
